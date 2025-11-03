@@ -1,3 +1,5 @@
+Armips port of the Kirby and the Amazing Mirror Practice Cart (original by Frieze)
+
 How to build:
 
 Name your JP KATAM rom katam_jp.gba
