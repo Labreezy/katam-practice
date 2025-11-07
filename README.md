@@ -1,4 +1,4 @@
-Armips port of the Kirby and the Amazing Mirror Practice Cart (original by Frieze)
+Armips port of the Kirby and the Amazing Mirror Practice Cart (original by [IsoFrieze](https://github.com/IsoFrieze))
 
 How to build:
 
